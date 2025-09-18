@@ -10,5 +10,5 @@
 
 | Date | Link                                                                                                                             |
 | ------ | ---------------------------------------------------------------------------------------------------------------------------------- |
-| 9/17 | [Week One Recap](https://github.com/ccruiser/mitchell-lego-education-spike/blob/main/Robo-Mustangs%20-%20Week%201%20Recap%20.md) |
+| 9/17 | [Week One Recap](https://github.com/ccruiser/mitchell-lego-education-spike/blob/main/Weekly%20Recaps/Robo-Mustangs%20-%20Week%201%20Recap%20.md) |
 | 9/24 | TBD                                                                                                                              |
