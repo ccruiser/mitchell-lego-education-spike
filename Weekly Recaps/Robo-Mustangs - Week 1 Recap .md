@@ -13,6 +13,7 @@ This table lists a few of the items we reviewed during our session. See the [cha
 
 | Item                          | Link                                                                                                                                                                                                   |
 | :------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Stratch Coding Lessons        | [https://primelessons.org/en/Lessons.html ](https://primelessons.org/en/Lessons.html)                                                                                                                  |
 | Lego FLL Engineering Notebook | [https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-en.pdf](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-en.pdf)   |
 | Lego FLL Missions Video       | [https://www.youtube.com/watch?v=ErDj8myI_Tg](https://www.youtube.com/watch?v=ErDj8myI_Tg)                                                                                                             |
 | Lego FLL Robot Game Rule Book | [https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-rgr.pdf](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-rgr.pdf) |
