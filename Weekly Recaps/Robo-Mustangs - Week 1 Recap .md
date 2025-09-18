@@ -1,6 +1,6 @@
 # Mitchell Robotics - Team Robo-Mustangs : Week One
 
-This was a great first week for the students. After snacks the group met upstairs in one of the computer lab classrooms facing the commons area. We then set team expectations, agreed on a team name (**Robo-Mustangs** ), reviewed the game objectives, and breifly touched on this season’s theme of  Archeology. At the end our time we divided the challenge field bags into builder sets so that the students could begin to build the robot challenge stations at home.
+This was a great first week for the students. After snacks the group met upstairs in one of the computer lab classrooms facing the commons area. We then set team expectations, agreed on a team name (**Robo-Mustangs** ), reviewed the game objectives, and briefly touched on this season’s theme of Archeology. At the end our time we divided the challenge field bags into builder sets so that the students could begin to build the robot challenge stations at home.
 
 ## Takeaways
 
