@@ -1,6 +1,12 @@
 # Challenge Base Set Instrucutions
 
-There are 15 different challenges in this year's map. The lego field map setup details can be viewed here: [https://www.youtube.com/watch?v=u2yB-cPCjmQ](https://www.youtube.com/watch?v=u2yB-cPCjmQ). This link includes the setup of all 14 models across the field. 
+There are 15 different challenges in this year's map. The lego field map setup details can be viewed here: [https://www.youtube.com/watch?v=u2yB-cPCjmQ](https://www.youtube.com/watch?v=u2yB-cPCjmQ). This link includes the setup of all 14 models across the field.
+
+
+## Student Guidelines
+
+Each ziplock bag that is being send home should indicate the "Model #" of the given set. Use the table below to help reference the instruction manual for each lego build. All required peices should be in included with in the given back. Students must return their completed models to the next scheduled Robotics meet up.
+
 
 ## Model Build Instructions
 
