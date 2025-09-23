@@ -1,11 +1,15 @@
 # Team Robot- Mustangs Expectations
 
+- Collaboration
 
+- Good Sportsmanship
 
-- Item 1
+- Have Fun
 
-- Item 2
+- Listen to each other
 
-- Item 3
+- Work together
 
+- Use time wisely
 
+- Don't forget stuff
