@@ -34,9 +34,12 @@ What is a real-world problem faced archeologiest and what is your innovative or 
 
 7. Time Constraints - construction projects or erosion can destroy sites before they can be properly studied
 
+## Links
 
-
-
+| Title                 | Link                                                                             |
+| --------------------- | -------------------------------------------------------------------------------- |
+| FLL Research Overview | https://www.first-lego-league.org/en/2025-26-season/challenge-resources/research |
+|                       |                                                                                  |
 
 ## Videos
 
@@ -48,5 +51,3 @@ These videos are useful to help generate ideas for the FLL project
 | Video - FLL UK Intro         | https://www.youtube.com/watch?v=5RvzCkcAfXw |
 | Video - Robots in Archeology | https://www.youtube.com/watch?v=lZE9REQPB24 |
 | Video - FLL Project Intro    | https://www.youtube.com/watch?v=w_zkdTn2C6c |
-
-
